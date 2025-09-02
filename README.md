@@ -1,8 +1,8 @@
 # TANDEMLOOP Screening Test (Java)
 
-Hi, I am **Syed Mohammed Jawwad**.  
-This is my submission for the **TANDEMLOOP first screening test**.  
-I solved all 4 problems in **Java** using very simple beginner-level code.
+## Hi, I am **Syed Mohammed Jawwad**.  
+## This is my submission for the **TANDEMLOOP first screening test**.  
+## I solved all 4 problems in **Java** using very simple beginner-level code.
 
 ---
 
@@ -48,7 +48,7 @@ Repeat for `Problem2.java`, `Problem3.java`, `Problem4.java`.
 
 ## How to run in VS Code (if you use it)
 
-1. Install Java JDK (17+ recommended) and the **Extension Pack for Java** in VS Code.
+1. Install Java JDK 17+ and the **Extension Pack for Java** in VS Code.
 2. Open the folder (File → Open Folder...).
 3. Click on a `.java` file and use the **Run** button that appears above `main`, or use the terminal to compile and run as shown above.
 

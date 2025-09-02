@@ -1,10 +1,11 @@
-# TANDEMLOOP Screening Test (Java)
+# TANDEMLOOP Screening Test-1
 
-## Hi, I am **Syed Mohammed Jawwad**.  
-## This is my submission for the **TANDEMLOOP first screening test**.  
-## I solved all 4 problems in **Java** using very simple beginner-level code.
+### Hi, I am **Syed Mohammed Jawwad**.  
+### This is my submission for the **TANDEMLOOP first screening test**.  
+### I solved all 4 problems in **Java** using very simple beginner-level code.
 
 ---
+Language used : ## Java
 
 ## Problems
 

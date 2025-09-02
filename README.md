@@ -5,7 +5,7 @@
 ### I solved all 4 problems in **Java** using very simple beginner-level code.
 
 ---
-Language used : `Java`
+## Language used : `Java`
 
 ## Problems
 

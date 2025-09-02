@@ -1,8 +1,8 @@
 # TANDEMLOOP Screening Test-1
 
-### Hi, I am **Syed Mohammed Jawwad**.  
-### This is my submission for the **TANDEMLOOP first screening test**.  
-### I solved all 4 problems in very simple, beginner-friendly **Java**. I wrote the code the way I would as a learning developer so it is easy to read and understand.
+### Hi, I am `Syed Mohammed Jawwad`.  
+### This is my submission for the `TANDEMLOOP first screening test`.  
+### I solved all 4 problems in very simple, beginner-friendly `Java`. I wrote the code the way I would as a learning developer so it is easy to read and understand.
 
 ---
 ## Language used : `Java`
